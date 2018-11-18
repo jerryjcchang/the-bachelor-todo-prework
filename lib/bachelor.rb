@@ -63,6 +63,7 @@ def get_occupation(data, hometown)
       if into_array[:hometown] == hometown
         return into_array[:name]
       end 
+    end
   end 
 end
 
