@@ -72,4 +72,4 @@ def get_occupation(data, hometown)
 end
 
 get_occupation(data,"New York, New York")
-
+end
